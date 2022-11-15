@@ -3,9 +3,9 @@ Supermarkets will regularly change their store layouts, product selections, pric
 
 In this project the key analytics skills learnt are:
 
-Data wrangling
-Data visualization
-Programming skills
-Statistics
-Critical thinking
-Commercial thinking
+- Data wrangling
+- Data visualization
+- Programming skills
+- Statistics
+- Critical thinking
+- Commercial thinking
