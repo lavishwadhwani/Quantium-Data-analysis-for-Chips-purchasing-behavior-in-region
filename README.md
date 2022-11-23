@@ -17,4 +17,4 @@ In this project the key analytics skills learnt are:
 - Commercial thinking
 
 # Dashboard
-![Dashboard 1](https://github.com/lavishwadhwani/Quantium-Data-analysis-for-Chips-purchasing-behavior-in-region/files/10073072/Quantium.visuals.pdf)
+![Dashboard](https://user-images.githubusercontent.com/107829400/203481475-8423e02e-f8b1-46d0-9d20-58c0f7629f9c.png)
